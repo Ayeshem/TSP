@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./neurons/graphite/utils",
+        "./neurons/graphite/utils"
+    ]
+}

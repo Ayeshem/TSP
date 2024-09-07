@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        " /Users/mba/Documents/Work/TSP/neuronsCopy/neurons/graphite/solvers/base_solver.py",
+        "./graphite/utils",
+        "./graphite/solvers"
+    ]
+}
